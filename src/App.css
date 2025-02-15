@@ -4,7 +4,10 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   box-sizing: border-box;
 }
-
+body{
+  max-width: 1520px;
+  margin: auto;
+}
 header{
   margin-top: 40px;
 }
